@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import {Redirect, Route, Switch} from 'react-router-dom';
 import {Homepage} from './pages/homepage/homepage.jsx';
 import ShopPage from './pages/shop/shop.jsx';

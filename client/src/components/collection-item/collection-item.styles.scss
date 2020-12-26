@@ -22,6 +22,21 @@
     display: none;
   }
 
+  @media screen and (max-width:800px)  {
+    width: 40vw;
+
+    &:hover {
+      .image {
+        opacity: unset;
+      }
+  
+      .custom-button {
+        opacity: unset;
+        display: block;
+      }
+    }
+  }
+
   &:hover {
     .image {
       opacity: 0.8;
