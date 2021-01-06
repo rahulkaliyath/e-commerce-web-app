@@ -1,6 +1,6 @@
 # E-Commerce Web App Using Reactjs
 
-An online shopping site made using react
+An online shopping site made using react. Follow the [Link](http://e-commerce-reactjs-live.herokuapp.com/) to open in browser
 
 ## Features
 
